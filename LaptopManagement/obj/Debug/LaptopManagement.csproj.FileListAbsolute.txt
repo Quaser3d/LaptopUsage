@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\LaptopManagement\bin\Debug\LaptopManagement.exe.config
+C:\Users\Admin\source\repos\LaptopManagement\bin\Debug\LaptopManagement.exe
+C:\Users\Admin\source\repos\LaptopManagement\bin\Debug\LaptopManagement.pdb
+C:\Users\Admin\source\repos\LaptopManagement\obj\Debug\LaptopManagement.Splashscreen.resources
+C:\Users\Admin\source\repos\LaptopManagement\obj\Debug\LaptopManagement.Main.resources
+C:\Users\Admin\source\repos\LaptopManagement\obj\Debug\LaptopManagement.Properties.Resources.resources
+C:\Users\Admin\source\repos\LaptopManagement\obj\Debug\LaptopManagement.StudentsProfile.resources
+C:\Users\Admin\source\repos\LaptopManagement\obj\Debug\LaptopManagement.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\LaptopManagement\obj\Debug\LaptopManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LaptopManagement\obj\Debug\LaptopManagement.exe
+C:\Users\Admin\source\repos\LaptopManagement\obj\Debug\LaptopManagement.pdb
+C:\Users\Admin\source\repos\LaptopManagement\obj\Debug\LaptopManagement.csproj.AssemblyReference.cache
